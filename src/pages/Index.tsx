@@ -29,9 +29,9 @@ export default function Index() {
             <div className="flex justify-center mb-8">
               <div className="animate-float">
                 <img 
-                  src="/img/6e36a147-f72c-4032-8924-51835daab165.jpg" 
-                  alt="Balloon Vending Machine" 
-                  className="w-64 h-64 object-cover rounded-2xl shadow-2xl"
+                  src="https://cdn.poehali.dev/files/c13a999c-0618-4711-b924-a55795b8a6c2.png" 
+                  alt="Вендинговый автомат для шаров" 
+                  className="w-80 h-80 object-contain drop-shadow-2xl"
                 />
               </div>
             </div>

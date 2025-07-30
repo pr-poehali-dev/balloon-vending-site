@@ -31,7 +31,7 @@ export default function Index() {
                 <img 
                   src="https://cdn.poehali.dev/files/c13a999c-0618-4711-b924-a55795b8a6c2.png" 
                   alt="Вендинговый автомат для шаров" 
-                  className="w-80 h-80 object-contain drop-shadow-2xl"
+                  className="w-96 h-96 md:w-[500px] md:h-[500px] object-contain drop-shadow-2xl"
                 />
               </div>
             </div>
